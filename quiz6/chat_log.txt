@@ -1,0 +1,4 @@
+User: g
+Chatbot: This is a dummy response to: g
+User: o
+Chatbot: This is a dummy response to: o
